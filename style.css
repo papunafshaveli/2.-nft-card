@@ -69,7 +69,8 @@ hr {
 }
 
 .avatar {
-    border: 1px white;
+    border-radius: 50px;
+    border: 1px solid white;
     width: 33px;
     height: 33px;
 }
@@ -89,6 +90,6 @@ hr {
     color: #8BACD9;
 }
 
-span {
+#name {
     color: white;
 }
