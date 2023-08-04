@@ -1,95 +1,95 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;600&display=swap");
 
 body {
-    background-color: #0D192C;
+  background-color: #0d192c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 #card {
-    padding: 24px;
-    width: 302px;
-    background-color: #15263F;
-    border-radius: 15px;
-    margin-top: 152px;
-    margin-bottom: 152px;
-    margin-left: 445px;
-    margin-right: 445px;
+  padding: 24px;
+  width: 302px;
+  background-color: #15263f;
+  border-radius: 15px;
 }
 
 .largeone {
-    width: 302px;
-    height: 302px;
-    border-radius: 8px;
+  width: 302px;
+  height: 302px;
+  border-radius: 8px;
 }
 
 h1 {
-    font-family: 'Outfit';
-    color: white;
-    font-size: 22px;
-    line-height: 27.72px;
-    font-weight: 600;
+  font-family: "Outfit";
+  color: white;
+  font-size: 22px;
+  line-height: 27.72px;
+  font-weight: 600;
 }
 
 p {
-    margin-top: 10px;
-    font-family: 'Outfit';
-    color: #8BACD9;
-    font-size: 18px;
-    line-height: 26px;
+  margin-top: 10px;
+  font-family: "Outfit";
+  color: #8bacd9;
+  font-size: 18px;
+  line-height: 26px;
 }
 
 .littleone {
-    margin-top: 17.22px;
-    width: 8px;
-    height: 15px;
+  margin-top: 17.22px;
+  width: 8px;
+  height: 15px;
 }
 
 #etherium {
-    color: #00FFF8;
-    font-size: 16px;
-    font-family: 'Outfit';
-    font-weight: 600;
+  color: #00fff8;
+  font-size: 16px;
+  font-family: "Outfit";
+  font-weight: 600;
 }
 
 .clock {
-    margin-left: 110px;
+  margin-left: 110px;
 }
 
 span {
-    color: #8BACD9;
-    font-size: 16px;
-    font-family: 'Outfit';
+  color: #8bacd9;
+  font-size: 16px;
+  font-family: "Outfit";
 }
 
 hr {
-    height: 1px;
-    width: 302px;
-    background-color: #2E405A;
-    margin-top: 16px;
-    border: none;
+  height: 1px;
+  width: 302px;
+  background-color: #2e405a;
+  margin-top: 16px;
+  border: none;
 }
 
 .avatar {
-    border-radius: 50px;
-    border: 1px solid white;
-    width: 33px;
-    height: 33px;
+  border-radius: 50px;
+  border: 1px solid white;
+  width: 33px;
+  height: 33px;
 }
 
 .author {
-    display: flex;
-    align-items: center;
-    gap: 16px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
 .author p {
-    font-family: 'Outfit';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 20px;
-    color: #8BACD9;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #8bacd9;
 }
 
 #name {
-    color: white;
+  color: white;
 }
